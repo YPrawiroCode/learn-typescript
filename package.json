@@ -1,0 +1,25 @@
+{
+  "name": "learn_ts3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YPrawiroCode/learn-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YPrawiroCode/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/YPrawiroCode/learn-typescript#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.51.0",
+    "parcel": "^2.8.2"
+  }
+}
